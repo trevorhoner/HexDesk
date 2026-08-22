@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98b52ebd0eaec10955d1756b8e8254996b6b3180644c1615266c1ff428695855
-size 804
+HexDesk Modular Desk Organizer System
+Copyright (c) 2026 Trevor Honer
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit
+- NonCommercial — You may not use the material for commercial purposes
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
