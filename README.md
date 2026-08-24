@@ -33,6 +33,8 @@ HexDesk is to remain open-source to encourage users to contribute their creative
 ### Mounting Bracket
 ![Mounting Bracket](/images/Mounting-bracket.png "0.5m Mounting Bracket")
 
+![Mounting_Bracket_w/Clamp](/images/mounting-clamp.png "Mounting Bracket w/ Clamp")
+
 The mounting bracket is a 25mm spaced, hexagonal-hole patterned bracket and is the heart of the HexDesk system. The mounting bracket mates to the desk utilizing 4 rubber-compression clamps and allows users to freely build via combinations of L/S/I brackets, hex-pins, connectors, and accessories.
 
 The mounting bracket currently consists of 3 length variations i.e.:
@@ -40,7 +42,7 @@ The mounting bracket currently consists of 3 length variations i.e.:
   - 0.5m
   - 1m
 
-With the exception of the 200mm 3D printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded insert to install the rubber-compression clamps while the 200mm variation uses a tapered, M6 heat-fit insert.
+With the exception of the 200mm 3D printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded insert to install the rubber-compression clamps while the 200mm variation uses a tapered, M6 heat-set insert.
 
   - [200mm 3D Printable Hardware (subtotal: $18.74)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=5708077851437&lnktyp=txt)
   - [0.5m, 1m Sheet-metal Hardware (subtotal: $18.46)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=8152341834576&lnktyp=txt)
