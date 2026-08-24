@@ -13,6 +13,7 @@
 - ⚙️ [Parts](#Parts)
   -  [Mounting Bracket](#Mounting%20Bracket)
   -  [Brackets](#Brackets)
+  -  [Connectors](#Connectors)
   -  [Accessories](#Accessories)
 - 🛠️ [How to Use](#How%20to%20Use)
 - 🎯 [Objectives](#Objectives)
@@ -79,12 +80,34 @@ Two 90-degree angle bracket
 
 180-degree, straight bracket
 
+### Connectors
+
+#### Single Chamfered Connector
+
+![single-chamfered-connector](/images/chamfered-single-connector.png "Single Chamfered Connector")
+
+Mates two brackets along the same plane
+
+#### Double Connector
+
+![Double Connector](/images/double-connector.png "Double Connector")
+
+Mates two brackets in parallel
+
+#### Monitor Connector
+
+![Monitor-Connector-1](/images/monitor-connector-1.png "Monitor Connector -1")
+
+![Monitor-Connector-2](/images/monitor-connector-2.png "Monitor Connector -2")
+
+Allows the monitor bracket accessory to be quickly replaced in conjuction with a standard L/S/I bracket
+
 ### Accessories
 
 #### Cupholder
 ![cupholder](/images/cupholder.png)
 
-A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in).
+A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in)
 
 #### Shelves
 ![shelves](/images/shelf-layout.png)
@@ -93,18 +116,52 @@ Shelf plates that can be used to make shelves and cabinetry.
 There are currently 4 variations of shelf panels i.e.:
   - LEGO
   - peghole (U.S. standard 1" spacing)
-  - hexhole (10mm, 25mm spacing)
+  - hexhole (10mm diameter, 25mm spacing)
   - flat
 
 The shelves consist of end and middle pieces. Combined, users can make consistent planes out of shelves and brackets. Each shelf-plate mounts to a bracket via tongue-groove.
 
 ![shelf-layout](/images/shelf-panels.png)
 
-#### Connectors
+#### Monitor Bracket
+
+![Monitor-Bracket](/images/monitor-bracket.png "Monitor Bracket")
+
+A quick attach monitor bracket with 75mm, 100mm VESA pattern holes
+
+![Monitor-Arm](/images/monitor%20arm.png "Monitor Arm")
+
+Monitor arm assembly showing the monitor with bracket connections
+
+
 
 ## How to Use
-The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
-via hex pins. HexDesk systems are built using an almost infinite combination of L/S/I brackets, connectors, accessories, and hex-pins. 
+1. Make sure you have a working license for Solidworks
+
+2. Download this repo
+
+3. Print the [test-jig.sldprt](test-jig.SLDPRT) and [test-key.SLDPRT](test-key.SLDPRT) file
+
+   ![test-jig](/images/test-jig.png "Test Jig")
+
+   ![test-key](/images/test-key.png "Test Key")
+
+4. Insert the test-key for every connection i.e. tongue, groove, hole, and pin and choose the best tolerance for your printer.
+
+5. Open [global-variables.txt](global-variables.txt), and search "tol_nom" (nominal tolerance). Replace the nominal tolerance with your chosen tolerance from the test-jig.
+
+6. Any part that you open should automatically update with the new tolerance. You can now print the selected part with your specified tolerance. Rebuild the part before deciding to print.
+
+7. All other global variables can be changed but at your own risk. That's what open source is for after all.
 
 ## Objectives
-Ideally, HexDesk 
+Ideally, HexDesk remains as an open-source project where everybody from around the world can contribute their ideas. The more the project grows and expands, the more possibilities also occur.
+
+## Links
+
+[Custom Work](https://www.fiverr.com/s/BbB0djG)
+
+[Fiverr Page](https://www.fiverr.com/s/BbB0d0b)
+
+[Upwork Page](https://www.upwork.com/freelancers/~01e7e0c91357f5a6af?mp_source=share)
+
