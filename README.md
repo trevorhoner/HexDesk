@@ -13,6 +13,7 @@
 - ⚙️ [Parts](#Parts)
   -  [Mounting Bracket](#Mounting%20Bracket)
   -  [Brackets](#Brackets)
+  -  [Accessories](#Accessories)
 - 🛠️ [How to Use](#How%20to%20Use)
 - 🎯 [Objectives](#Objectives)
 - 🔗 [Links](#Links)
@@ -30,6 +31,7 @@ Just know that any custom work will still be under the Creative Commons license.
 HexDesk is an open-source modular desk organization system designed using Solidworks Maker. All source parts are currently native Solidworks files, so anybody who is willing to contribute to the project will need a license of Solidworks. Fortunately, [Solidworks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license.
 
 HexDesk utilizes a hole-pin mating pattern with a standardized hole spacing of 25mm. Users can build nearly infinite desk setups e.g. shelves, monitor arms, cupholders, cord organizers, and much more. The idea was to create a system that would be easy to use, somewhat stylish, and versatile.
+It's basically LEGO for desks.
 
 ## Purpose
 The purpose of HexDesk is to provide a fun, versatile, affordable, and easily-accessible way for people to customize their desk.
@@ -58,16 +60,34 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
   - [Female Rubber Bumpers - M6 4pcs 20mmx15mm uxcell ($8.59)](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6)
 
 ### Brackets
+All brackets utilize a tongue/groove and hole-pin mating layout; combined, these mating-interfaces create six-axis locking. This allows simple modification and removability of parts. Each bracket is invertible, meaning that the tongue/groove and bracket bends can be aligned either way for more customization.
+
+All variations of brackets are under 200mm to ensure fit for 3D Printing.
 
 #### L-bracket
 ![L-bracket](/images/L-bracket.png)
 
+A 90-degree angle bracket
+
 #### S-bracket
 ![S-bracket](/images/s-bracket.png)
+
+Two 90-degreee angle bracket
 
 #### I-bracket
 ![I-bracket](/images/I-bracket.png)
 
+A 180-degree, straight bracket
+
+### Accessories
+
+#### cup-holder
+![cupholder](/images/cupholder.png)
+
+A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in).
+
+#### shelves
+![shelves](/images/
 ## How to Use
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
 via hex pins. HexDesk systems are built using an almost infinite combination of L/S/I brackets, connectors, accessories, and hex-pins. 
