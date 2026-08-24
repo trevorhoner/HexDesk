@@ -1,5 +1,4 @@
-# HexDesk
-## an open-source modular desk organizational system
+# HexDesk - an open-source modular desk organizational system
 
 ![HexDesk computer desk](/images/HexDesk%20-%20computer%20desk%20(3).png)
 
