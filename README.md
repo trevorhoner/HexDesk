@@ -11,22 +11,37 @@
 - ⚖️ [License](#License)
 - 🌄 [Purpose](#Purpose)
 - ⚙️ [Parts](#Usage)
-- 🔨 [How it Works](#How%20it%20Works)
+- 🛠️ [How it Works](#How%20it%20Works)
 - 🎯 [Objectives](#Objectives)
 - 🔗 [Links](#Links)
 
 ## License
 HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 Users are allowed to freely distribute, modify, and contribute the source content for personal use.
-Commercial use is strictly prohibited unless authorized permission by me under a commercial license.
+Commercial use is strictly prohibited unless granted authorized permission by me under a commercial license.
 
-If you would like me to build custom tailored accessories for your HexDesk project, 
+If you would like me to build you custom, tailored accessories for your HexDesk project, 
 please click on my [Fiverr](https://www.fiverr.com/s/Em0YBZ9) page. 
 Just know that any custom work will still be under the Creative Commons license.
 
 ## Purpose
 The purpose of HexDesk is to provide a fun, versatile, affordable, and easily-accessible way for people to customize their desk.
 HexDesk is to remain open-source to encourage users to contribute their creative talent and make HexDesk fun and exciting for everybody to use.
+
+## Parts
+
+### Mounting Bracket
+![Mounting Bracket](/images/Mounting-bracket.png "0.5m Mounting Bracket")
+
+The mounting bracket is a 25mm spaced hexagonal-hole patterned bracket and is the heart of the HexDesk system. The mounting bracket mates to the desk utilizing 4 rubber-compression clamps and allows users to freely build via combinations of L/S/I brackets, hex-pins, connectors, and accessories.
+
+The mounting bracket currently consists of 3 length variations i.e.:
+  - 200mm 3D printable
+  - 0.5m
+  - 1m
+
+With the exception of the 200mm 3D printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded insert to install the rubber-compression clamps while the 200mm variation uses a tapered, M6 heat-fit insert.
+
 
 ## How it Works
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
