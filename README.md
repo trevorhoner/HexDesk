@@ -87,7 +87,7 @@ A 180-degree, straight bracket
 A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in).
 
 #### shelves
-![shelves](/images/shelf-panels.png)
+![shelves](/images/shelf-layout.png)
 
 Shelf plates that can be used to make shelves and cabinetry.
 There are currently 4 variations of shelf panels i.e.:
@@ -98,7 +98,7 @@ There are currently 4 variations of shelf panels i.e.:
 
 The shelves consist of end and middle pieces; combined, users can make consistent planes. Each shelf-plate mounts to a bracket via tongue/groove.
 
-![shelf-layout](/images/shelf-layout.png)
+![shelf-layout](/images/shelf-panels.png)
 
 ## How to Use
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
