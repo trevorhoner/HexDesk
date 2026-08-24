@@ -60,45 +60,47 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
   - [Female Rubber Bumpers - M6 4pcs 20mmx15mm uxcell ($8.59)](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6)
 
 ### Brackets
-All brackets utilize a tongue/groove and hole-pin mating layout; combined, these mating-interfaces create six-axis locking. This allows simple modification and removability of parts. Each bracket is invertible, meaning that the tongue/groove and bracket bends can be aligned either way for more customization.
+All brackets utilize a tongue-groove and hole-pin mating layout. Combined, the tongue/groove and hole-pin interfaces create six-axis locking. This allows simple modification and removability of parts. Each bracket is invertible, meaning that the tongue/groove and bracket bends can be aligned either way for more customization.
 
 All variations of brackets are under 200mm to ensure fit for 3D Printing.
 
 #### L-bracket
 ![L-bracket](/images/L-bracket.png)
 
-A 90-degree angle bracket
+90-degree angle bracket
 
 #### S-bracket
 ![S-bracket](/images/s-bracket.png)
 
-Two 90-degreee angle bracket
+Two 90-degree angle bracket
 
 #### I-bracket
 ![I-bracket](/images/I-bracket.png)
 
-A 180-degree, straight bracket
+180-degree, straight bracket
 
 ### Accessories
 
-#### cup-holder
+#### Cupholder
 ![cupholder](/images/cupholder.png)
 
 A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in).
 
-#### shelves
+#### Shelves
 ![shelves](/images/shelf-layout.png)
 
 Shelf plates that can be used to make shelves and cabinetry.
 There are currently 4 variations of shelf panels i.e.:
   - LEGO
   - peghole (U.S. standard 1" spacing)
-  - hexhole (10mm, 25mm spacing)\
+  - hexhole (10mm, 25mm spacing)
   - flat
 
-The shelves consist of end and middle pieces; combined, users can make consistent planes. Each shelf-plate mounts to a bracket via tongue/groove.
+The shelves consist of end and middle pieces. Combined, users can make consistent planes out of shelves and brackets. Each shelf-plate mounts to a bracket via tongue-groove.
 
 ![shelf-layout](/images/shelf-panels.png)
+
+#### Connectors
 
 ## How to Use
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
