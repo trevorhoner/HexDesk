@@ -38,15 +38,25 @@ HexDesk is to remain open-source to encourage users to contribute their creative
 The mounting bracket is a 25mm spaced, hexagonal-hole patterned bracket and is the heart of the HexDesk system. The mounting bracket mates to the desk utilizing 4 rubber-compression clamps and allows users to freely build via combinations of L/S/I brackets, hex-pins, connectors, and accessories.
 
 The mounting bracket currently consists of 3 length variations i.e.:
-  - 200mm 3D printable
+  - 200mm, 3D-Printable
   - 0.5m
   - 1m
 
-With the exception of the 200mm 3D printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded insert to install the rubber-compression clamps while the 200mm variation uses a tapered, M6 heat-set insert.
+With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
+
+All hardware below is sourced from McMaster-Carr/Amazon and can ship internationally:
 
   - [200mm 3D Printable Hardware (subtotal: $18.74)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=5708077851437&lnktyp=txt)
   - [0.5m, 1m Sheet-metal Hardware (subtotal: $18.46)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=8152341834576&lnktyp=txt)
   - [Female Rubber Bumpers - M6 4pcs 20mmx15mm uxcell ($8.59)](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6)
+
+### Brackets
+
+#### L-bracket
+
+#### S-bracket
+
+#### I-bracket
 
 ## How it Works
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
