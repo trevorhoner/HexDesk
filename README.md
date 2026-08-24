@@ -16,7 +16,7 @@
 - 🔗 [Links](#Links)
 
 ## License
-HexDesk is under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License Creative Commons [license](/LICENSE.txt).
+HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 Users are allowed to freely distribute, modify, and contribute the source content for personal use.
 Commercial use is strictly prohibited unless authorized permission by me under a commercial license.
 
