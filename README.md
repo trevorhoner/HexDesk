@@ -9,9 +9,10 @@
 
 # Tables of Contents
 - ⚖️ [License](#License)
+- 📖 [About](#About)
 - 🌄 [Purpose](#Purpose)
 - ⚙️ [Parts](#Usage)
-- 🛠️ [How it Works](#How%20it%20Works)
+- 🛠️ [How to Use](#How%20to%20Use)
 - 🎯 [Objectives](#Objectives)
 - 🔗 [Links](#Links)
 
@@ -58,7 +59,7 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
 
 #### I-bracket
 
-## How it Works
+## How to Use
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
 via hex pins. HexDesk systems are built using an almost infinite combination of L/S/I brackets, connectors, accessories, and hex-pins. 
 
