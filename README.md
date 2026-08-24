@@ -60,13 +60,13 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
 ### Brackets
 
 #### L-bracket
-[L-bracket](/images/L-bracket.png)
+![L-bracket](/images/L-bracket.png)
 
 #### S-bracket
-[S-bracket](/images/s-bracket.png)
+![S-bracket](/images/s-bracket.png)
 
 #### I-bracket
-[I-bracket](/images/I-bracket.png)
+![I-bracket](/images/I-bracket.png)
 
 ## How to Use
 The HexDesk system is centered around the mounting bracket. The mounting bracket clamps to any edge of a desk and the user mounts any configuration of brackets
