@@ -3,7 +3,8 @@
 ![HexDesk computer desk](images/HexDesk%20-%20computer%20desk%20(3).png)
 
 ## Tables of Contents
-- ⚖️ [License](#License)
+
+
 - 📖 [About](#About)
 - 🌄 [Purpose](#Purpose)
 - ⚙️ [Parts](#Parts)
@@ -13,16 +14,7 @@
   -  [Accessories](#Accessories)
 - 🛠️ [How to Use](#how-to-use)
 - 🎯 [Objectives](#Objectives)
-- 🔗 [Links](#Links)
-
-## License
-HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-Users are allowed to freely distribute, modify, and contribute the source content for personal use.
-Commercial use is strictly prohibited unless granted authorized permission by me under a commercial license.
-
-If you would like me to build you custom, tailored accessories for your HexDesk project, 
-please click on my [Fiverr](https://www.fiverr.com/s/Em0YBZ9) page. 
-Just know that any custom work will still be under the Creative Commons license.
+- ⚖️ [License](#License)
 
 ## About
 HexDesk is an open-source modular desk organization system designed using Solidworks Maker. All source parts are currently native Solidworks files, so anybody who is willing to contribute to the project will need a license of Solidworks. Fortunately, [Solidworks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license.
@@ -154,11 +146,12 @@ Monitor arm assembly showing the monitor with bracket connections
 ## Objectives
 Ideally, HexDesk remains as an open-source project where everybody from around the world can contribute their ideas. The more the project grows and expands, the more possibilities also occur.
 
-## Links
+## License
+HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Users are allowed to freely distribute, modify, and contribute the source content for personal use.
+Commercial use is strictly prohibited unless granted authorized permission by me under a commercial license.
 
-[Custom Work](https://www.fiverr.com/s/BbB0djG)
-
-[Fiverr Page](https://www.fiverr.com/s/BbB0d0b)
-
-[Upwork Page](https://www.upwork.com/freelancers/~01e7e0c91357f5a6af?mp_source=share)
+If you would like me to build you custom, tailored accessories for your HexDesk project, 
+please click on my [Fiverr](https://www.fiverr.com/s/Em0YBZ9) page. 
+Just know that any custom work will still be under the Creative Commons license.
 
