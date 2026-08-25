@@ -129,7 +129,7 @@ Monitor arm assembly showing the monitor with bracket connections
 
 2. Download this repo
 
-3. Print the [test-jig.sldprt](test-jig.SLDPRT) and [test-key.SLDPRT](test-key.SLDPRT) file
+3. Print the [test-jig.STL](STLs/test-jig.STL) and [test-key.STL](STLs/test-key.STL) file
 
    ![test-jig](images/test-jig.png "Test Jig")
 
