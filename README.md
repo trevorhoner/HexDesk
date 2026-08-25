@@ -118,7 +118,7 @@ The shelves consist of end and middle pieces. Combined, users can make consisten
 
 A quick attach monitor bracket with 75mm, 100mm VESA pattern holes
 
-![Monitor-Arm](images/monitor%20arm.png "Monitor Arm")
+![Monitor-Arm](images/monitor-arm.png "Monitor Arm")
 
 Monitor arm assembly showing the monitor with bracket connections
 
