@@ -51,7 +51,7 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
 
   |  Part Name   | Part Description | McMaster Part # |
   |--------------|------------------|-----------------|
-  | [Socket Screw](https://www.mcmaster.com/92125A258/) |
+  | Socket Screw | 18-8 Stainless Steel Hex-Drive Flat Head Screw M6 x 1 mm Thread Size, 70 mm Long | [92125A258](https://www.mcmaster.com/92125A258/) |
   
   
 
