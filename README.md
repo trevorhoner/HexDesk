@@ -18,7 +18,7 @@
 The purpose of HexDesk is to provide a fun, versatile, affordable, and easily-accessible way for people to customize their desk.
 HexDesk is to remain open-source to encourage users to contribute their creative talent and make HexDesk fun and exciting for everybody to use.
 
-There are also STL files of the HexDesk system if you do not have a license for SolidWorks.
+There are also 33 STL files of the HexDesk system if you do not have a license for SolidWorks.
 
 HexDesk utilizes a hole-pin mating pattern with a standardized hole spacing of 25mm. Users can build nearly infinite desk setups e.g. shelves, monitor arms, cupholders, cord organizers, and much more. The idea was to create a system that would be easy to use, somewhat stylish, and versatile.
 
