@@ -18,7 +18,6 @@
 HexDesk v1.0 currently has 33 STLs ready to print. HexDesk utilizes a standardized 25mm, hole-pin mating pattern with matching brackets, shelf-plates, connectors, and accessories to build nearly infinite combinations.
 
 The purpose of HexDesk is to provide a fun, versatile, affordable, and easily-accessible way for people to customize their desk.
-The idea was to create a system that would be easy to use, somewhat stylish, and versatile.
 
 🔶 [Printables](https://www.printables.com/model/1823229-hexdesk-modular-desk-organizer-system-open-source)
 
