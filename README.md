@@ -14,7 +14,7 @@
 - 🌎 [Contributing](#contributing)
 - ⚖️ [License](#license)
 
-## Purpose
+## About
 HexDesk v1.0 currently has 33 STLs ready to print. Users can pick and choose from different brackets, shelf-plates, connectors, and accessories to build nearly infinite combinations.
 
 The purpose of HexDesk is to provide a fun, versatile, affordable, and easily-accessible way for people to customize their desk.
