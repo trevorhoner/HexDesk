@@ -47,6 +47,11 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
   - [200mm 3D Printable Hardware (subtotal: $18.74)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=5708077851437&lnktyp=txt)
   - [0.5m, 1m Sheet-metal Hardware (subtotal: $18.46)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=8152341834576&lnktyp=txt)
   - [Female Rubber Bumpers - M6 4pcs 20mmx15mm uxcell ($8.59)](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6)
+  |  Part Name   | Part Description | McMaster Part # |
+  |--------------|------------------|-----------------|
+  | [Socket Screw](https://www.mcmaster.com/92125A258/) |
+  
+  
 
 ### Brackets
 All brackets utilize a tongue-groove and hole-pin mating layout. Combined, the tongue/groove and hole-pin interfaces create six-axis locking. This allows simple modification and removability of parts. Each bracket is invertible, meaning that the tongue/groove and bracket bends can be aligned either way for more customization.
