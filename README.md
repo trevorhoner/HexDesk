@@ -51,7 +51,8 @@ All hardware below is sourced from McMaster-Carr/Amazon and can ship internation
 
   |  Part Name   | Part Description | McMaster Part # |
   |--------------|------------------|-----------------|
-  | Press-Fit Nut (sheet-metal) | Flush-Mount Press-Fit Nut for Sheet Metal M6 x 1 mm Thread Size, for 4.75 mm Minimum Panel Thickness | [94674A219](https://www.mcmaster.com/94674A219/) |
+  | Heat-Set Nut (200mm, 3D Printable) | 18-8 Stainless Steel Tapered Heat-Set Insert for Plastic M6 x 1 mm Thread Size, 7.62 mm Installed Length, ASTM A380 | [97163A156](https://www.mcmaster.com/97163A156/) |
+  | Press-Fit Nut | Flush-Mount Press-Fit Nut for Sheet Metal M6 x 1 mm Thread Size, for 4.75 mm Minimum Panel Thickness | [94674A219](https://www.mcmaster.com/94674A219/) |
   | Socket Screw | 18-8 Stainless Steel Hex-Drive Flat Head Screw M6 x 1 mm Thread Size, 70 mm Long | [92125A258](https://www.mcmaster.com/92125A258/) |
   
   
