@@ -2,29 +2,27 @@
 
 ![HexDesk computer desk](images/HexDesk%20-%20computer%20desk%20(3).png)
 
-## Tables of Contents
+## Table of Contents
 
-- 📖 [About](#About)
-- 🌄 [Purpose](#Purpose)
-- ⚙️ [Parts](#Parts)
+- 🌄 [Purpose](#purpose)
+- ⚙️ [Parts](#parts)
   -  [Mounting Bracket](#mounting-bracket)
-  -  [Brackets](#Brackets)
-  -  [Connectors](#Connectors)
-  -  [Accessories](#Accessories)
+  -  [Brackets](#brackets)
+  -  [Connectors](#connectors)
+  -  [Accessories](#accessories)
 - 🛠️ [How to Use](#how-to-use)
-- 🎯 [Objectives](#Objectives)
-- ⚖️ [License](#License)
-
-## About
-HexDesk is an open-source modular desk organization system designed using Solidworks Maker. All source parts are currently native Solidworks files, so anybody who is willing to contribute to the project will need a license of Solidworks. Fortunately, [Solidworks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. There are also STL files of the HexDesk system if you do not have a license for Solidworks.
-
-HexDesk utilizes a hole-pin mating pattern with a standardized hole spacing of 25mm. Users can build nearly infinite desk setups e.g. shelves, monitor arms, cupholders, cord organizers, and much more. The idea was to create a system that would be easy to use, somewhat stylish, and versatile.
-
-🔶 [Printables](https://www.printables.com/model/1823229-hexdesk-modular-desk-organizer-system-open-source)
+- 🌎 [Contributing](#contributing)
+- ⚖️ [License](#license)
 
 ## Purpose
 The purpose of HexDesk is to provide a fun, versatile, affordable, and easily-accessible way for people to customize their desk.
 HexDesk is to remain open-source to encourage users to contribute their creative talent and make HexDesk fun and exciting for everybody to use.
+
+There are also STL files of the HexDesk system if you do not have a license for SolidWorks.
+
+HexDesk utilizes a hole-pin mating pattern with a standardized hole spacing of 25mm. Users can build nearly infinite desk setups e.g. shelves, monitor arms, cupholders, cord organizers, and much more. The idea was to create a system that would be easy to use, somewhat stylish, and versatile.
+
+🔶 [Printables](https://www.printables.com/model/1823229-hexdesk-modular-desk-organizer-system-open-source)
 
 ## Parts
 
@@ -44,12 +42,12 @@ With the exception of the 200mm 3D-Printable variation, the mounting bracket is 
 
 All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to most parts of the world:
 
-  |  Part Name   | Part Description | McMaster Part # |
-  |--------------|------------------|-----------------|
-  | Heat-Set Nut (200mm, 3D Printable) | 18-8 Stainless Steel Tapered Heat-Set Insert for Plastic M6 x 1 mm Thread Size, 7.62 mm Installed Length, ASTM A380 | [97163A156](https://www.mcmaster.com/97163A156/) |
-  | Press-Fit Nut | Flush-Mount Press-Fit Nut for Sheet Metal M6 x 1 mm Thread Size, for 4.75 mm Minimum Panel Thickness | [94674A219](https://www.mcmaster.com/94674A219/) |
-  | Socket Screw | 18-8 Stainless Steel Hex-Drive Flat Head Screw M6 x 1 mm Thread Size, 70 mm Long | [92125A258](https://www.mcmaster.com/92125A258/) |
-  | Rubber Bumper | [uxcell 4Pcs 20 x 15mm M6 Female Thread Rubber Mounts](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6) | |
+| Part | Description | Source |
+|------|-------------|--------|
+| Heat-set nut (200 mm print) | M6 × 1 tapered insert for plastic | [McMaster 97163A156](https://www.mcmaster.com/97163A156/) |
+| Press-fit nut (sheet metal) | M6 × 1 flush press-fit | [McMaster 94674A219](https://www.mcmaster.com/94674A219/) |
+| Socket screw | M6 × 1 flat head, 70 mm | [McMaster 92125A258](https://www.mcmaster.com/92125A258/) |
+| Rubber bumper | 20 × 15 mm M6 female mounts | [Amazon listing](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56) |
   
 
 ### Brackets
@@ -92,7 +90,7 @@ Mates two brackets in parallel
 
 ![Monitor-Connector-2](images/monitor-connector-2.png "Monitor Connector -2")
 
-Allows the monitor bracket accessory to be quickly replaced in conjuction with a standard L/S/I bracket
+Allows the monitor bracket accessory to be quickly replaced in conjunction with a standard L/S/I bracket
 
 ### Accessories
 
@@ -108,7 +106,7 @@ Shelf plates that can be used to make shelves and cabinetry.
 There are currently 4 variations of shelf panels i.e.:
 
   - brick-board
-  - peghole (U.S. standard 1" spacing)
+  - 1-inch pegboard spacing
   - hexhole (10mm diameter, 25mm spacing)
   - flat
 
@@ -129,7 +127,7 @@ Monitor arm assembly showing the monitor with bracket connections
 
 
 ## How to Use
-1. Make sure you have a working license for Solidworks
+1. Make sure you have a working license for SolidWorks
 
 2. Download this repo
 
@@ -147,8 +145,8 @@ Monitor arm assembly showing the monitor with bracket connections
 
 7. All other global variables can be changed but at your own risk. That's what open source is for after all.
 
-## Objectives
-Ideally, HexDesk remains as an open-source project where everybody from around the world can contribute their ideas. The more the project grows and expands, the more possibilities also occur.
+## Contributing
+HexDesk is an open-source modular desk organization system designed using SolidWorks Maker. All source parts are currently native SolidWorks files, so anybody who is willing to contribute to the project will need a license of SolidWorks. Fortunately, [SolidWorks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. 
 
 ## License
 HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
