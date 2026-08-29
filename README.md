@@ -1,6 +1,6 @@
 # HexDesk
 
-![HexDesk computer desk](images/HexDesk%20-%20computer%20desk%20(3).png)
+![HexDesk computer desk](images/hexdesk-computer-desk.png)
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ The idea was to create a system that would be easy to use, somewhat stylish, and
 ## Parts
 
 ### Mounting Bracket
-![Mounting Bracket](images/Mounting-bracket.png "0.5m Mounting Bracket")
+![Mounting Bracket](images/mounting-bracket.png "0.5m Mounting Bracket")
 
 ![Mounting_Bracket_w/Clamp](images/mounting-clamp.png "Mounting Bracket w/ Clamp")
 
@@ -42,10 +42,10 @@ All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to mo
 
 | Part | Description | Source |
 |------|-------------|--------|
-| Heat-set nut (200 mm print) | M6 × 1 tapered insert for plastic | [McMaster 97163A156](https://www.mcmaster.com/97163A156/) |
-| Press-fit nut (sheet metal) | M6 × 1 flush press-fit | [McMaster 94674A219](https://www.mcmaster.com/94674A219/) |
-| Socket screw | M6 × 1 flat head, 70 mm | [McMaster 92125A258](https://www.mcmaster.com/92125A258/) |
-| Rubber bumper | 20 × 15 mm M6 female mounts | [Amazon listing](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56) |
+| Heat-set nut (200 mm print) | M6 × 1 tapered insert for plastic | [McMaster# 97163A156](https://www.mcmaster.com/97163A156/) |
+| Press-fit nut (sheet metal) | M6 × 1 flush press-fit | [McMaster# 94674A219](https://www.mcmaster.com/94674A219/) |
+| Socket screw | M6 × 1 flat head, 70 mm | [McMaster# 92125A258](https://www.mcmaster.com/92125A258/) |
+| Rubber bumper | 20 × 15 mm M6 female mounts | [Amazon](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56) |
   
 
 ### Brackets
@@ -125,23 +125,22 @@ Monitor arm assembly showing the monitor with bracket connections
 
 
 ## How to Use
-1. Make sure you have a working license for SolidWorks
 
-2. Download this repo
+1. Download the latest release
 
-3. Print the [test-jig.STL](STLs/test-jig.STL) and [test-key.STL](STLs/test-key.STL) file
+2. Print the [test-jig.STL](STLs/test-jig.STL) and [test-key.STL](STLs/test-key.STL) file
 
    ![test-jig](images/test-jig.png "Test Jig")
 
    ![test-key](images/test-key.png "Test Key")
 
-4. Insert the test-key for every connection i.e. tongue, groove, hole, and pin and choose the best tolerance for your printer.
+3. Insert the test-key for every connection i.e. tongue, groove, hole, and pin and choose the best tolerance for your printer.
 
-5. Open [global-variables.txt](global-variables.txt), and search "tol_nom" (nominal tolerance). Replace the nominal tolerance with your chosen tolerance from the test-jig.
+4. Open [global-variables.txt](global-variables.txt), and search "tol_nom" (nominal tolerance). Replace the nominal tolerance with your chosen tolerance from the test-jig.
 
-6. Any part that you open should automatically update with the new tolerance. You can now print the selected part with your specified tolerance. Rebuild the part before deciding to print.
+5. Any part that you open should automatically update with the new tolerance. You can now print the selected part with your specified tolerance. Rebuild the part before deciding to print.
 
-7. All other global variables can be changed but at your own risk. That's what open source is for after all.
+6. All other global variables can be changed but at your own risk.
 
 ## Contributing
 HexDesk is an open-source modular desk organization system designed using SolidWorks Maker. All source parts are currently native SolidWorks files, so anybody who is willing to contribute to the project will need a license of SolidWorks. Fortunately, [SolidWorks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. 
