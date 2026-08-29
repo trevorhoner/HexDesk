@@ -42,16 +42,11 @@ The mounting bracket currently consists of 3 length variations i.e.:
 
 With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
 
-All hardware below is sourced from McMaster-Carr/Amazon and can ship internationally:
-
-  - [200mm 3D Printable Hardware (subtotal: $18.74)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=5708077851437&lnktyp=txt)
-  - [0.5m, 1m Sheet-metal Hardware (subtotal: $18.46)](https://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=8152341834576&lnktyp=txt)
-  - [Female Rubber Bumpers - M6 4pcs 20mmx15mm uxcell ($8.59)](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6)
-
+All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to most parts of the world:
 
   |  Part Name   | Part Description | McMaster Part # |
   |--------------|------------------|-----------------|
-  | Heat-Set Nut       (200mm, 3D Printable) | 18-8 Stainless Steel Tapered Heat-Set Insert for Plastic M6 x 1 mm Thread Size, 7.62 mm Installed Length, ASTM A380 | [97163A156](https://www.mcmaster.com/97163A156/) |
+  | Heat-Set Nut (200mm, 3D Printable) | 18-8 Stainless Steel Tapered Heat-Set Insert for Plastic M6 x 1 mm Thread Size, 7.62 mm Installed Length, ASTM A380 | [97163A156](https://www.mcmaster.com/97163A156/) |
   | Press-Fit Nut | Flush-Mount Press-Fit Nut for Sheet Metal M6 x 1 mm Thread Size, for 4.75 mm Minimum Panel Thickness | [94674A219](https://www.mcmaster.com/94674A219/) |
   | Socket Screw | 18-8 Stainless Steel Hex-Drive Flat Head Screw M6 x 1 mm Thread Size, 70 mm Long | [92125A258](https://www.mcmaster.com/92125A258/) |
   | Rubber Bumper | [uxcell 4Pcs 20 x 15mm M6 Female Thread Rubber Mounts](https://www.amazon.com/uxcell-Female-Vibration-Isolator-Replaces/dp/B0DD4DMK56/ref=sr_1_6?sr=8-6) | |
@@ -157,8 +152,6 @@ Ideally, HexDesk remains as an open-source project where everybody from around t
 
 ## License
 HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-Users are allowed to freely distribute, modify, and contribute the source content for personal use.
-Commercial use is strictly prohibited unless granted authorized permission by me under a commercial license.
 
 If you would like me to build you custom, tailored accessories for your HexDesk project, 
 please click on my [Fiverr](https://www.fiverr.com/s/Em0YBZ9) page. 
