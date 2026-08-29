@@ -16,7 +16,7 @@
 - ⚖️ [License](#License)
 
 ## About
-HexDesk is an open-source modular desk organization system designed using Solidworks Maker. All source parts are currently native Solidworks files, so anybody who is willing to contribute to the project will need a license of Solidworks. Fortunately, [Solidworks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license.
+HexDesk is an open-source modular desk organization system designed using Solidworks Maker. All source parts are currently native Solidworks files, so anybody who is willing to contribute to the project will need a license of Solidworks. Fortunately, [Solidworks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. There are also STL files of the HexDesk system if you do not have a license for Solidworks.
 
 HexDesk utilizes a hole-pin mating pattern with a standardized hole spacing of 25mm. Users can build nearly infinite desk setups e.g. shelves, monitor arms, cupholders, cord organizers, and much more. The idea was to create a system that would be easy to use, somewhat stylish, and versatile.
 
@@ -40,7 +40,7 @@ The mounting bracket currently consists of 3 length variations i.e.:
   - 0.5m
   - 1m
 
-With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m long variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
+With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
 
 All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to most parts of the world:
 
