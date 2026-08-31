@@ -96,9 +96,6 @@ Allows the monitor bracket accessory to be quickly replaced in conjunction with 
 
 A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in)
 
-**Need a part that is not in the pack?**
-[Custom part design on Fiverr](https://www.fiverr.com/s/Em0YBZ9)
-
 #### Shelves
 ![shelves](images/shelf-layout.png)
 
@@ -123,6 +120,11 @@ A quick attach monitor bracket with 75mm, 100mm VESA pattern holes
 ![Monitor-Arm](images/monitor-arm.png "Monitor Arm")
 
 Monitor arm assembly showing the monitor with bracket connections
+
+#### Custom Parts
+
+**Need a part that is not in the pack?**
+[Custom part design on Fiverr](https://www.fiverr.com/s/Em0YBZ9)
 
 ## How to Use
 
