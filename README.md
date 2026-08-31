@@ -134,13 +134,13 @@ Monitor arm assembly showing the monitor with bracket connections
   - [double connector](STLs/connectors/double.STL)
   - [hex-pin](STLs/hex-pin-15mm.STL)
 
-1. Download the [latest release](https://github.com/trevorhoner/HexDesk/releases/latest)
+2. Download the [latest release](https://github.com/trevorhoner/HexDesk/releases/latest)
    
-2. Purchase or source the specified hardware for the mounting bracket that you choose, whether 3D printed or sheet-metal.
+3. Purchase or source the specified hardware for the mounting bracket that you choose, whether 3D printed or sheet-metal.
 
-3. Print parts from the STLs folder and build.
+4. Print parts from the STLs folder and build.
 
-4. Any modifications to the parts e.g. tolerances, will have to be done in SolidWorks. See contributing for more detail.
+5. Any modifications to the parts e.g. tolerances, will have to be done in SolidWorks. See contributing for more detail.
 
 ## Contributing
 HexDesk is an open-source modular desk organization system designed using SolidWorks Maker. All source parts are currently native SolidWorks files, so anybody who is willing to contribute to the project will need a license of SolidWorks. Fortunately, [SolidWorks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. 
