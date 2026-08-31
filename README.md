@@ -128,6 +128,12 @@ Monitor arm assembly showing the monitor with bracket connections
 
 ## How to Use
 
+1. Print the following parts and perform a no-go test. If they do not fit properly, then you'll have to skip this section and edit the original SolidWorks files. See [Contributing](#contributing) 
+   
+  - [2x5 - I-bracket](STLs/I-bracket/2x5 (I - 0.35mm).STL)
+  - [double connector](STLs/connectors/double.STL)
+  - [hex-pin](STLs/hex-pin-15mm.STL)
+
 1. Download the [latest release](https://github.com/trevorhoner/HexDesk/releases/latest)
    
 2. Purchase or source the specified hardware for the mounting bracket that you choose, whether 3D printed or sheet-metal.
