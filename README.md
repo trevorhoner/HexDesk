@@ -35,7 +35,7 @@ The mounting bracket currently consists of 3 length variations i.e.:
   - 0.5m
   - 1m
 
-With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal. The 0.5m and 1m variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
+With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal and cannot be 3D printed. The 0.5m and 1m variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
 
 All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to most parts of the world:
 
@@ -96,6 +96,9 @@ Allows the monitor bracket accessory to be quickly replaced in conjunction with 
 
 A cupholder designed using an L-bracket. The cupholder base is designed for containers with a diameter of 130mm (~5 in)
 
+**Need a part that is not in the pack?**
+[Custom part design on Fiverr](https://www.fiverr.com/s/Em0YBZ9)
+
 #### Shelves
 ![shelves](images/shelf-layout.png)
 
@@ -123,7 +126,7 @@ Monitor arm assembly showing the monitor with bracket connections
 
 ## How to Use
 
-1. Download the latest release
+1. Download the [latest release](https://github.com/trevorhoner/HexDesk/releases/latest)
    
 2. Purchase or source the specified hardware for the mounting bracket that you choose, whether 3D printed or sheet-metal.
 
@@ -154,4 +157,3 @@ HexDesk is an open-source modular desk organization system designed using SolidW
   - Repo license: CC BY-NC-SA 4.0
   - Personal prints: intended
   - Selling prints or shipping a product: ask
-  - Custom part design: [Fiverr](https://www.fiverr.com/s/Em0YBZ9)
