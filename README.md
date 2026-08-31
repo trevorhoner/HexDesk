@@ -130,7 +130,7 @@ Monitor arm assembly showing the monitor with bracket connections
 
 1. Print the following parts and perform a no-go test. If they do not fit properly, then you'll have to skip this section and edit the original SolidWorks files. See [Contributing](#contributing) 
    
-  - [2x5 - I-bracket](STLs/I-bracket/2x5 (I - 0.35mm).STL)
+  - [L-bracket](STLs/L-bracket/2x5%20(L%20-%200.35mm,%202H).STL)
   - [double connector](STLs/connectors/double.STL)
   - [hex-pin](STLs/hex-pin-15mm.STL)
 
