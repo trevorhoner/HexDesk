@@ -132,7 +132,7 @@ Monitor arm assembly showing the monitor with bracket connections
    
   - [L-bracket](STLs/L-bracket/2x5%20(L%20-%200.35mm,%202H).STL)
   - [double connector](STLs/connectors/double.STL)
-  - [hex-pin](STLs/hex-pin-15mm.STL)
+  - [hex-pin](STLs/hex-pin/hex-pin-15mm.STL)
 
 2. Download the [latest release](https://github.com/trevorhoner/HexDesk/releases/latest)
    
