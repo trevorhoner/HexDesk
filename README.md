@@ -123,7 +123,7 @@ Monitor arm assembly showing the monitor with bracket connections
 
 #### Custom Parts
 
-**Need a part that is not in the pack?**
+Need a part that is not in the pack?
 [Custom part design on Fiverr](https://www.fiverr.com/s/Em0YBZ9)
 
 ## How to Use
