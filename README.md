@@ -60,7 +60,7 @@ All variations of brackets are under 200mm to ensure fit for 3D Printing.
 #### S-bracket
 ![S-bracket](images/s-bracket.png)
 
-Two 90-degree angle bracket
+two 90-degree bends
 
 #### I-bracket
 ![I-bracket](images/I-bracket.png)
@@ -121,11 +121,20 @@ A quick attach monitor bracket with 75mm, 100mm VESA pattern holes
 
 Monitor arm assembly showing the monitor with bracket connections
 
-
-
 ## How to Use
 
 1. Download the latest release
+   
+2. Purchase or source the specified hardware for the mounting bracket that you choose, whether 3D printed or sheet-metal.
+
+3. Print parts from the STLs folder and build.
+
+4. Any modifications to the parts e.g. tolerances, will have to be done in SolidWorks. See contributing for more detail.
+
+## Contributing
+HexDesk is an open-source modular desk organization system designed using SolidWorks Maker. All source parts are currently native SolidWorks files, so anybody who is willing to contribute to the project will need a license of SolidWorks. Fortunately, [SolidWorks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. 
+
+1. Clone the repo
 
 2. Print the [test-jig.STL](STLs/test-jig.STL) and [test-key.STL](STLs/test-key.STL) file
 
@@ -141,12 +150,8 @@ Monitor arm assembly showing the monitor with bracket connections
 
 6. All other global variables can be changed but at your own risk.
 
-## Contributing
-HexDesk is an open-source modular desk organization system designed using SolidWorks Maker. All source parts are currently native SolidWorks files, so anybody who is willing to contribute to the project will need a license of SolidWorks. Fortunately, [SolidWorks Maker](https://www.solidworks.com/solution/solidworks-makers) remains about $48/yr U.S.D for an annual license. 
-
 ## License
-HexDesk is under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-If you would like me to build you custom, tailored accessories for your HexDesk project, 
-please click on my [Fiverr](https://www.fiverr.com/s/Em0YBZ9) page. 
-Just know that any custom work will still be under the Creative Commons license.
+  - Repo license: CC BY-NC-SA 4.0
+  - Personal prints: intended
+  - Selling prints or shipping a product: ask
+  - Custom part design: [Fiverr](https://www.fiverr.com/s/Em0YBZ9)
