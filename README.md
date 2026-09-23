@@ -37,7 +37,7 @@ The mounting bracket currently consists of 3 length variations i.e.:
 
 With the exception of the 200mm 3D-Printable variation, the mounting bracket is designed for sheet metal and cannot be 3D printed. The 0.5m and 1m variations are best suited for sheet metal considering the strength needed for the length of the part. The sheet metal variations use a press-fit M6 threaded-insert while the 200mm variation uses a tapered, M6 heat-set insert to secure the rubber-compression clamps. 
 
-All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to most parts of the world:
+All clamp hardware below is sourced from McMaster-Carr and can ship to most parts of the world:
 
 | Part | Description | Source | Price ($USD) | Qty. |
 |------|-------------|--------|--------------|------|
