@@ -44,7 +44,7 @@ All clamp hardware below is sourced from McMaster-Carr/Amazon and can ship to mo
 | Heat-set nut (200 mm print) | M6 × 1 tapered insert for plastic | [McMaster# 97163A156](https://www.mcmaster.com/97163A156/) | $8.96 | 5 |
 | Press-fit nut (sheet metal) | M6 × 1 flush press-fit | [McMaster# 94674A219](https://www.mcmaster.com/94674A219/) | $9.38 | 5 |
 | Socket screw | M6 × 1 flat head, 70 mm | [McMaster# 92125A258](https://www.mcmaster.com/92125A258/) | $9.78 | 5 |
-| Rubber bumper | 1" × 1", M6 x 1 natural rubber mount | McMaster# 9247K53](https://www.mcmaster.com/9247K53/) | $2.57 | 1 |
+| Rubber bumper | 1" × 1", M6 x 1 natural rubber mount | [McMaster# 9247K53](https://www.mcmaster.com/9247K53/) | $2.57 | 1 |
   
 
 ### Brackets
