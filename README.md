@@ -43,7 +43,7 @@ All clamp hardware below is sourced from McMaster-Carr and can ship to most part
 |------|-------------|--------|
 | Heat-set nut (200 mm print) | M6 × 1 tapered insert for plastic | [McMaster# 97163A156](https://www.mcmaster.com/97163A156/)
 | Press-fit nut (sheet metal) | M6 × 1 flush press-fit | [McMaster# 94674A219](https://www.mcmaster.com/94674A219/)
-| Socket screw | M6 × 1 flat head, 70 mm | [McMaster# 91290A208](https://www.mcmaster.com/91290A208/)
+| Socket screw | M6 × 1 socket head, 70 mm | [McMaster# 91290A208](https://www.mcmaster.com/91290A208/)
 | Rubber bumper | 1" × 1", M6 x 1 natural rubber mount | [McMaster# 9247K53](https://www.mcmaster.com/9247K53/)
   
 
