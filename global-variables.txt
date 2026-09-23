@@ -1,3 +1,289 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a438a75490823eaf2897fd74605b76b5b2cc36f319810d3d49332ebeebed23c
-size 11519
+﻿"hex_diameter" = 10mm '================= hex-hole ====================================================
+"hex_vertex_diameter" = (2/sqr(3)) * "hex_diameter"
+"hex_offset" = 5mm
+"hole_spacing" = 25mm
+"hex_chamfer_length" = 1mm
+"hex_chamfer_angle" = 45deg
+"mounting_hole_x_offset" = "hex_offset" + "hex_chamfer_length"
+"mounting_hole_z_offset" = "hex_offset" + ("hex_chamfer_length" * (2/sqr(3))) + 0.471mm
+
+
+
+"hex_pin_diameter" = 14mm '================= hex-pin ================================================
+"hex_pin_length" = 50mm
+"hex_head_height" = 5mm
+
+
+
+"jig_length" = 175mm '================= test-jig ===================================
+"jig_width" = 175mm
+"jig_depth" = 10mm
+"corner_fillets" = 5mm
+"jig_label_length" = 20mm
+"hole_label_space" = 5mm
+"jig_label_offset" = 10mm
+"pin_length_1" = 35mm  
+"pin_length_2" = 30mm
+"pin_length_3" = 25mm
+"pin_length_4" = 20mm
+"pin_length_5" = 15mm
+"pin_length_6" = 10mm
+"tongue_length_1" = 35mm
+"tongue_length_2" = 30mm
+"tongue_nom_width" = "tol_nom"/2
+"test-jig_tongue_height" = 20mm
+"tongue_space" = 10mm
+"tongue_nominal_space" = 15mm
+"tongue_margin" = 10mm
+"tongue_label_space" = 5mm
+"tongue_label_length" = 55mm
+
+
+
+"tol_20" = 0.2mm '===================== tolerances =================================
+"tol_nom" = 0.35mm
+"tol_50" = 0.5mm
+"tol_65" = 0.65mm
+"tol_85" = 0.85mm
+"tol_1" = 1.00mm
+
+
+
+"pin_20_diameter" = "hex_diameter" - ("tol_20") '============ tolerance - 0.2mm equations =======================
+"hole_20_diameter" = "hex_diameter" + ("tol_20")
+"tongue_20_diameter" = -("tol_20")
+"connector_20_diameter" = ("tol_20")
+"cutout_20_diameter" = ("tol_20")
+
+
+
+"pin_nom_diameter" = "hex_diameter" - ("tol_nom"/2) '============ tolerance - nominal equations =======================
+"hole_nom_diameter" = "hex_diameter" + ("tol_nom"/2)
+"hole_nom_vertex_diameter" = (2/sqr(3)) * "hole_nom_diameter"
+"tongue_nom_diameter" = ("tol_nom"/2)
+"connector_nom_diameter" = ("tol_nom"/2)
+"cutout_nom_diameter" = ("tol_nom"/2)
+
+
+
+"pin_50_diameter" = "hex_diameter" - ("tol_50") '============ tolerance - 0.5mm equations =======================
+"hole_50_diameter" = "hex_diameter" + ("tol_50")
+"tongue_50_diameter" = ("tol_50")
+"connector_50_diameter" = ("tol_50")
+"cutout_50_diameter" = ("tol_50")
+
+
+
+"pin_65_diameter" = "hex_diameter" - ("tol_65") '============ tolerance - 0.65mm equations =======================
+"hole_65_diameter" = "hex_diameter" + ("tol_65")
+"tongue_65_diameter" = -("tol_65")
+"connector_65_diameter" = ("tol_65")
+"cutout_65_diameter" = ("tol_65")
+
+
+
+"pin_85_diameter" = "hex_diameter" - ("tol_85") '============ tolerance - 0.85mm equations =======================
+"hole_85_diameter" = "hex_diameter" + ("tol_85")
+"tongue_85_diameter" = -("tol_85")
+"connector_85_diameter" = ("tol_85")
+"cutout_85_diameter" = ("tol_85")
+
+
+
+"pin_1_diameter" = "hex_diameter" - ("tol_1") '============ tolerance - 1mm equations =======================
+"hole_1_diameter" = "hex_diameter" + ("tol_1")
+"tongue_1_diameter" = -("tol_1")
+"connector_1_diameter" = ("tol_1")
+"cutout_1_diameter" = ("tol_1")
+
+
+
+"outside_fillet_radius" = 1mm '================ common fillet-radii =============================
+"polish_fillet_radius" = 3mm
+"hex_fillet_radius" = 0.5mm
+"mating_fillet_radius" = 0.5mm
+"inside_fillet_radius" = 0.5mm
+
+
+
+"table_stop"= 13.31mm '================= mounting - plate ====================================================
+"mounting_plate_thickness" = 5mm
+"bend_radius" = 2mm
+"k-factor" = 0.5
+"plate_inside_radius_offset" = "bracket_outside_radius" + "mounting_hole_x_offset" - "bend_radius"
+"length_num_hole" = 8
+"width_num_hole" = 3
+"clamp_hole_diameter" = 8.7mm
+"clamp_hole_x_offset" = 0.75 * 25.4mm
+"clamp_hole_z_offset" = "plate_length"/10
+"clamp_hole_num" = 4
+"plate_length" = ("mounting_hole_z_offset" * 2) + ("outside_fillet_radius" * 2) + ("hole_nom_vertex_diameter") + ("hole_spacing" * ("length_num_hole" - 1 ))
+"top-width" = "width" - 35mm
+"width"= "plate_inside_radius_offset" + "hex_offset" - ("tol_nom"/2) + ("hole_nom_diameter" * 2) + ("hole_spacing" * ("width_num_hole" - 1))
+"side_width"= (2 * "mounting_hole_x_offset") - ("bend_radius" * 3) - ("tol_nom"/2) + ("hole_nom_diameter" * 2) + ("hole_spacing" * ("width_num_hole" - 1))
+"bottom_width_offset" = 1.5 * 25.4mm
+"bottom_width" = "width" + "bottom_width_offset"
+"1mm_tick_offset" = 1mm
+"1mm_tick_mark_length" = 4mm
+"5mm_tick_offset" = 5mm
+"5mm_tick_length" = 6mm
+"10mm_tick_offset" = 10mm
+"10mm_tick_length" = 8mm
+"hole_nom_offset" = 11mm
+"hole_label_width" = 10mm
+"ruler_width" = 12mm
+"ruler_label_width" = 5mm
+
+
+"bumper_diameter" = 20mm '======================================================= rubber-bumper ================================================
+"bumper_height" = 15mm
+"bumper_hole" = 6mm
+"bumper_hole_depth" = 5mm
+
+
+
+"connector_width_padding" = 10mm '====================== tongue-groove connector ===================
+"connector_height_padding" = 10mm
+"hole_y" = 10mm
+"connector_hole_offset" = if("c-width_hole_num" >= 2, (("connector_base_width" - "hole_spacing")/2), "connector_base_width"/2) '======= *from dashed to center of hole* ====================
+"tongue_angle-1" = 120deg
+"tongue_angle-2" = 60deg
+"c-hole_depth" = 25mm
+"tongue_height" = "bracket_thickness"/2
+"chamfer_height" = 10mm
+"chamfer_angle" = 60deg
+"c-width_hole_num" = 2
+"c-depth_hole_num" = 2
+"connector_base_width" = ("mounting_hole_z_offset" * 2) + "hole_nom_vertex_diameter" + ("hole_spacing" * ("c-width_hole_num" - 1))
+"connector_width" = "connector_base_width"  + "connector_width_padding" - ("tol_nom"/2)
+"cutout_connector_width" = "connector_base_width"  + "connector_width_padding" + ("tol_nom"/2)
+"cutout_connector_height" = "bracket_thickness" + "connector_height_padding" + ("tol_nom"/2)
+"connector_depth" = "bracket_thickness" + 5mm - ("tol_nom"/2)
+"connector_height" = "hex_offset" + "outside_fillet_radius" + "mounting_hole_x_offset" + "hole_nom_diameter" + ("hole_spacing" * ("c-depth_hole_num" - 1 ))
+
+
+
+"middle_separator_length" = 5mm '======================== outside-double connector ==========================
+"plane_offset" = "middle_separator_length"/2
+
+
+
+"bracket_thickness" = 12.5mm '============ bracket - dimensions ========================================
+"bracket_width" = ("hole_spacing" * ("b-width_hole_num"))
+"bracket_hole_offset" = "mounting_hole_z_offset" '======= *from dashed to edge vertex* ====================
+"bracket_hole_x_offset" = "mounting_hole_x_offset" + 1.5mm
+"b-width_hole_num" = 2
+"bracket_outside_radius" = "bracket_bend_radius" + "bracket_thickness" - "tol_nom"
+"bracket_bend_radius" = "mounting_plate_thickness" + "bend_radius"
+"hex_xaxis" = "hole_spacing"/2
+"hex_edge_length" = "bracket_width"/5
+"bracket_fillet_radius" = 0.5mm
+"bracket_chamfer_length" = 10mm
+"bracket_chamfer_angle" = 45deg
+"bracket_tongue" = "bracket_thickness"/3
+"bracket_hole_v_offset" = "mounting_hole_x_offset" - "bracket_fillet_radius"
+
+
+
+"L_top_hole_num" = 2 '===================== L-bracket =======================
+"L_side_hole_num" = 4
+"L-bracket_top_offset" = "mounting_hole_x_offset"
+"L-bracket_top_length" = "hex_offset" + 1.5mm + "bracket_bend_radius" + "hole_nom_diameter" + ("hole_spacing" * ("L_top_hole_num" - 1))
+"L-bracket_side_length"= "hex_offset" + "bracket_hole_x_offset" + (2*"bracket_fillet_radius") + "hole_nom_diameter" + ("hole_spacing" * ("L_side_hole_num" - 1 ))
+
+
+
+"I_hole_num" = 6 '============================== I-bracket
+"I_bracket_length" = ( "bracket_hole_x_offset" * 2 ) + ( "hole_nom_diameter" ) + ( "hole_spacing" * ("I_hole_num" - 1))
+
+
+
+"bend_radius-s" = ("bracket_thickness"/2) + "bracket_bend_radius" '===================== S-bracket =======================
+"s_top_hole_num" = 10  
+"s_middle_hole_num" = 3
+"s_bottom_hole_num" = 2
+"s_offset" = "hex_offset" + "mounting_plate_thickness"
+"top_bracket_length" = "hex_offset" + "bracket_hole_x_offset" + "hole_nom_diameter" + ( 2 * "bracket_fillet_radius") + ("hole_spacing" * ("s_top_hole_num" - 1))
+"middle_bracket_length"= "bracket_outside_radius" + (1 * "bracket_bend_radius") + (2 * "mounting_hole_x_offset") + "hole_nom_diameter" + ("hole_spacing" * ("s_middle_hole_num" - 1))
+"bottom_bracket_length" = "bracket_hole_x_offset" + ("mounting_hole_x_offset") + "hole_nom_diameter" + ("hole_spacing" * ("s_bottom_hole_num" - 1))
+
+
+
+"a-bracket_height" = 90mm '====================================== angle-bracket =================================
+"a-bracket_arc_space" = 17mm
+"a-bracket_depth" = 35mm
+"a-bracket_hole_num" = 3
+"a-bracket_180_hole_num" = 6
+"a-bracket_hole_spacing" = 45mm
+"a-bracket_180_hole_spacing" = 41mm
+"a-bracket_connector_depth" = 25mm
+
+
+
+"bottle_diameter" = 75mm '================================= cupholder =================================
+"wing_tip_thickness" = 5mm
+"wings_thickness" = 25mm
+"wing_connector_height" = (("connector_width" - ("outer_diameter" * ((1)/(1+sqr(2)))))/2) + "connector_height" + "outside_fillet_radius"
+"base_length" = 160mm
+"cup_diameter" = 130mm '==== Keep difference between outer and cup to 30mm =====
+"outer_diameter" = 155mm
+"base_thickness" = 35mm
+"drink_base_length" = 150mm
+"drink_base_offset" = 25mm
+"bottom_support_offset" = 45mm
+"bottom_groove_thickness" = 10mm
+"bottom_loft_radius" = 14mm
+"upper_loft_offset" = 4mm
+"collar_fillet_radius" = 4mm
+"cupholder_fillet_radius" = 2mm
+
+
+
+"monitor_bracket_width" = 125mm '======================================== monitor-bracket ================================
+"monitor_bracket_thickness" = 12mm
+"monitor_tongue_length" = ("connector_height"   - "monitor_bottom_depth")/2
+"monitor_tongue_length2" = (("connector_height"   - "monitor_bottom_depth")/2) - 5mm
+"vesa_75" = 75mm
+"vesa_100" = 100mm
+"monitor_chamfer_length" = 10mm
+"monitor_chamfer_angle" = 45deg
+"monitor_bottom_depth" = 5mm
+
+"main-plate width" = 125mm '================================================= shelf-plate ==========================  
+"main-plate length" = 125mm + ("tol_nom"/2)
+"main-plate width (peg-hole)" = 127mm
+"main-plate width (lego)" = 128mm
+
+"left-corner-width" = 155mm - "tol_nom"
+"left-corner length (flat, hex-hole)" = 125mm '==== 147mm before
+"left-corner length (peg-hole)" = 149mm
+"left-corner length (lego)" = 144mm
+
+"shelf_height" = 4mm
+
+"shelf_depth" = "bracket_thickness" + "shelf_height"
+"plate_hole_offset" = "mounting_hole_x_offset" - (1.825mm/2)
+"shelf_chamfer_length" = 15mm
+"shelf_width_double_sided" = "shelf_width" + "connector_base_width" + ("connector_width" - "connector_base_width") - "tol_nom" 
+"peg_diameter" = (0.25 * 25.4mm) + ("tol_nom"/2)
+"peg-hole (x-offset)" = 11.7mm
+"peg-hole (z-offset)" = 11.7mm
+"peg_hole_offset" = 25.4mm * 0.5
+"lego_diameter" = 4.8mm - ("tol_nom"/2)
+"lego_height" = 1.7mm
+"lego_spacing" = 8mm
+"lego_offset" = ("lego_spacing"/2) + 2.5mm
+"shelf_bracket_width" = 50mm
+
+"table_width" = 1200mm '========================= table-dummy ====================================
+"table_depth" = 600mm
+"tabletop_height" = 25.4mm
+"tabletop_fillet" = 5mm
+"tableskirt_offset" = 50mm
+"tableskirt_y_offset" = 100mm
+"tableskirt_depth" = 100mm
+"tableskirt_thin" = 15mm
+"tableleg_offset" = 75mm
+"tableleg_top_width" = 90mm
+"tableleg_bottom_width" = 45mm
+"legspacing_width" = "table_width" - ("tableskirt_offset" * 2) - ("tableskirt_thin" * 2) - ("tableleg_offset" * 2)
