@@ -9,13 +9,14 @@
 
 
 
-"hex_pin_diameter" = 14mm '================= hex-pin ================================================
+"hex_pin_diameter" = 10mm - ("tol_nom"/2) '================= hex-pin ================================================
 "hex_pin_length" = 50mm
+"hex_head_pin_diameter" = 14mm + ("tol_nom"/2)
 "hex_head_height" = 5mm
 
 
 
-"jig_length" = 175mm '================= test-jig ===================================
+"jig_length" = 140mm '================= test-jig ===================================
 "jig_width" = 175mm
 "jig_depth" = 10mm
 "corner_fillets" = 5mm
@@ -28,11 +29,12 @@
 "pin_length_4" = 20mm
 "pin_length_5" = 15mm
 "pin_length_6" = 10mm
+"hex_spacing" = 25mm
 "tongue_length_1" = 35mm
 "tongue_length_2" = 30mm
 "tongue_nom_width" = "tol_nom"/2
 "test-jig_tongue_height" = 20mm
-"tongue_space" = 10mm
+"tongue_space" = 7mm
 "tongue_nominal_space" = 15mm
 "tongue_margin" = 10mm
 "tongue_label_space" = 5mm
@@ -41,7 +43,7 @@
 
 
 "tol_20" = 0.2mm '===================== tolerances =================================
-"tol_nom" = 0.35mm
+"tol_nom" = 0.65mm
 "tol_50" = 0.5mm
 "tol_65" = 0.65mm
 "tol_85" = 0.85mm
@@ -112,13 +114,13 @@
 "k-factor" = 0.5
 "plate_inside_radius_offset" = "bracket_outside_radius" + "mounting_hole_x_offset" - "bend_radius"
 "length_num_hole" = 8
-"width_num_hole" = 3
-"clamp_hole_diameter" = 8.7mm
+"width_num_hole" = 2
+"clamp_hole_diameter" = 8.99mm + "tol_20"
 "clamp_hole_x_offset" = 0.75 * 25.4mm
 "clamp_hole_z_offset" = "plate_length"/10
 "clamp_hole_num" = 4
 "plate_length" = ("mounting_hole_z_offset" * 2) + ("outside_fillet_radius" * 2) + ("hole_nom_vertex_diameter") + ("hole_spacing" * ("length_num_hole" - 1 ))
-"top-width" = "width" - 35mm
+"top-width" = "width"
 "width"= "plate_inside_radius_offset" + "hex_offset" - ("tol_nom"/2) + ("hole_nom_diameter" * 2) + ("hole_spacing" * ("width_num_hole" - 1))
 "side_width"= (2 * "mounting_hole_x_offset") - ("bend_radius" * 3) - ("tol_nom"/2) + ("hole_nom_diameter" * 2) + ("hole_spacing" * ("width_num_hole" - 1))
 "bottom_width_offset" = 1.5 * 25.4mm
@@ -225,8 +227,8 @@
 "wings_thickness" = 25mm
 "wing_connector_height" = (("connector_width" - ("outer_diameter" * ((1)/(1+sqr(2)))))/2) + "connector_height" + "outside_fillet_radius"
 "base_length" = 160mm
-"cup_diameter" = 130mm '==== Keep difference between outer and cup to 30mm =====
-"outer_diameter" = 155mm
+"cup_diameter" = 115mm '==== Keep difference between outer and cup to 30mm =====
+"outer_diameter" = 140mm
 "base_thickness" = 35mm
 "drink_base_length" = 150mm
 "drink_base_offset" = 25mm
