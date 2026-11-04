@@ -43,7 +43,7 @@
 
 
 "tol_20" = 0.2mm '===================== tolerances =================================
-"tol_nom" = 0.65mm
+"tol_nom" = 0.55mm
 "tol_50" = 0.5mm
 "tol_65" = 0.65mm
 "tol_85" = 0.85mm
@@ -242,7 +242,7 @@
 
 
 "monitor_bracket_width" = 125mm '======================================== monitor-bracket ================================
-"monitor_bracket_thickness" = 12mm
+"monitor_bracket_thickness" = 5mm
 "monitor_tongue_length" = ("connector_height"   - "monitor_bottom_depth")/2
 "monitor_tongue_length2" = (("connector_height"   - "monitor_bottom_depth")/2) - 5mm
 "vesa_75" = 75mm
@@ -251,8 +251,8 @@
 "monitor_chamfer_angle" = 45deg
 "monitor_bottom_depth" = 5mm
 
-"main-plate width" = 125mm '================================================= shelf-plate ==========================  
-"main-plate length" = 125mm + ("tol_nom"/2)
+"main-plate width" = 100mm '================================================= shelf-plate ==========================  
+"main-plate length" = 100mm + ("tol_nom"/2)
 "main-plate width (peg-hole)" = 127mm
 "main-plate width (lego)" = 128mm
 
