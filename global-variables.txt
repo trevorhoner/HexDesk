@@ -251,8 +251,8 @@
 "monitor_chamfer_angle" = 45deg
 "monitor_bottom_depth" = 5mm
 
-"main-plate width" = 100mm '================================================= shelf-plate ==========================  
-"main-plate length" = 100mm + ("tol_nom"/2)
+"main-plate width" = 160mm + ("tol_nom"/2)'================================================= shelf-plate ==========================  
+"main-plate length" = 148.775mm
 "main-plate width (peg-hole)" = 127mm
 "main-plate width (lego)" = 128mm
 
@@ -271,10 +271,10 @@
 "peg-hole (x-offset)" = 11.7mm
 "peg-hole (z-offset)" = 11.7mm
 "peg_hole_offset" = 25.4mm * 0.5
-"lego_diameter" = 4.8mm - ("tol_nom"/2)
+"lego_diameter" = 4.8mm - 0.2mm
 "lego_height" = 1.7mm
 "lego_spacing" = 8mm
-"lego_offset" = ("lego_spacing"/2) + 2.5mm
+"lego_offset" = ("lego_spacing"/2) - 1mm
 "shelf_bracket_width" = 50mm
 
 "table_width" = 1200mm '========================= table-dummy ====================================
