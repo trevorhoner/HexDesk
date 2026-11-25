@@ -1,0 +1,12 @@
+*Parts not listed here are to print with a quantity of 1
+
+2x2x3-S-Bracket  	(x2)
+hex-pin-15mm	 	(x24)
+hex-pin-25mm		(x4)
+hex-pin-35mm	 	(x8)
+double-connector 	(x2)
+2x6-L-bracket	 	(x2)
+
+
+
+
