@@ -6,7 +6,6 @@ hex-pin-25mm		(x4)
 hex-pin-35mm	 	(x8)
 double-connector 	(x2)
 2x6-L-bracket	 	(x2)
-cord-clip		(x3)
 
 *Parts not listed here are to print with a quantity of 1
 
